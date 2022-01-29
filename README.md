@@ -1,3 +1,12 @@
+# 2022 - THIS PROJECT NO LONGER FUNCTIONS DUE TO CHANGES WITH ALEXA.
+
+**A new version is in development[.](https://github.com/andrewstech/streamer-api)**
+
+
+
+
+
+
 # Alpha-Video
 
 
@@ -5,7 +14,7 @@
                                                                              
                                                                                                               
 
-[![docker](https://github.com/unofficial-skills/youtube-alexa-python/actions/workflows/docker-package.yml/badge.svg)](https://github.com/unofficial-skills/youtube-alexa-python/actions/workflows/docker-package.yml)
+
 
 
 
