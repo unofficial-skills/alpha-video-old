@@ -1,6 +1,16 @@
-# alpha-video!!
-YouTube for your Alexa device.
+# Alpha-Video
 
-![build](https://api.travis-ci.com/unofficial-skills/alpha-video.svg?branch=main)
 
-Instructions click [here](https://alpha-video.andrewstech.me/)
+                                                                             
+                                                                             
+                                                                                                              
+
+[![docker](https://github.com/unofficial-skills/youtube-alexa-python/actions/workflows/docker-package.yml/badge.svg)](https://github.com/unofficial-skills/youtube-alexa-python/actions/workflows/docker-package.yml)
+
+
+
+
+## DOCS
+
+Please visit the docs by clicking [here](https://alpha-video.andrewstech.me/)
+
